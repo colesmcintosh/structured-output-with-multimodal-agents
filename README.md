@@ -19,13 +19,13 @@ This notebook demonstrates how to create a multimodal agent system using LangGra
 
 I'm excited to share insights from my latest project on "Structured Output with Multimodal Agents," a notebook that showcases the incredible potential of structured data and the intelligent routing of tasks to various large language models (LLMs).
 
-### Why Structured Output is Revolutionary
+### Why Structured Output is Super Helpful
 
 Structured output is a cornerstone of effective automation. It transforms raw data into organized, easily interpretable formats, enabling seamless integration across different stages of an automation pipeline. This consistency ensures that automation scripts can reliably process information, reducing errors and boosting efficiency.
 
-Moreover, structured output is crucial for advanced analytics and machine learning. It allows us to feed organized data directly into models, facilitating real-time insights and decision-making. Additionally, structured data ensures compliance and traceability, which are vital for maintaining transparency and meeting regulatory requirements.
+Moreover, structured output can provide 'space' for additional processing and analysis, enabling more sophisticated AI models areas for planning, reasoning, and decision-making. This can be crucial for complex tasks that require multi-step processing and integration of diverse data sources.
 
-### The Cool Factor: Multimodal Agent Integration
+### Multi-LLM and Multimodal Integration
 
 This notebook exemplifies the next level of AI integration by routing tasks to specialized LLMs. Here's how it works:
 
